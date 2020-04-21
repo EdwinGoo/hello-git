@@ -4,9 +4,6 @@ dev branch create
 add feature home
 modified feature branch conflict
 
-<<<<<<< HEAD
 modified server error
 add feature login form
-=======
 modified feature-home 
->>>>>>> feature-home
