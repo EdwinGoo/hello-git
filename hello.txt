@@ -3,3 +3,5 @@ first commit
 dev branch create
 add feature home
 modified feature branch conflict
+
+modified feature-home 
